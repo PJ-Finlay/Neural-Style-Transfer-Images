@@ -8,6 +8,8 @@
 ### Mona Lisa in the style of "Girl with a Mandolin"
 ![Mona Lisa in the style of Girl with a Mandolin](generated/mona_lisa_girl_with_a_mandolin_o_lbfgs_i_content_h_720_m_vgg19_cw_100000.0_sw_30000.0_tv_1.0.jpg)
 
+[Video](https://youtu.be/xvawoZMIcSE)
+
 [Code](https://github.com/PJ-Finlay/pytorch-neural-style-transfer)
 
 All images licensed Creative Commons CC0 (Public Domain)
